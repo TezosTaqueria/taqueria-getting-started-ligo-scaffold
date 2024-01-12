@@ -1,0 +1,18 @@
+{
+  "name": "taqueria-getting-started-ligo-scaffold",
+  "version": "1.0.0",
+  "description": "A Taqueria scaffold for getting started with LIGO",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "cat README.md"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@taqueria/plugin-flextesa": "^0.46.0",
+    "@taqueria/plugin-ligo": "^0.46.0",
+    "@taqueria/plugin-taquito": "^0.46.0"
+  }
+}
