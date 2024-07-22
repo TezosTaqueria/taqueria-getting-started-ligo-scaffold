@@ -77,7 +77,7 @@
             "version": "0.1",
             "schema": "1.0",
             "alias": "ligo",
-            "postInstall": "node /run/media/liveuser/Insensitive/Projects/pinnacle-labs/taqueria-getting-started-ligo-scaffold/node_modules/@taqueria/lib-ligo/postinstall.js",
+            "postInstall": "node node_modules/@taqueria/lib-ligo/postinstall.js",
             "tasks": [
                 {
                     "task": "ligo",
