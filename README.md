@@ -1,7 +1,7 @@
 # Getting Started Scaffold for Taqueria (LIGO version)
 
 This scaffold is a Taqueria project that provides the following:
-1. Pre-installed plugins to get off the ground quickly (@taqueria/plugin-ligo, @taqueria/plugin-taquito, @taqueria/plugin-flextesa)
+1. Pre-installed plugins to get off the ground quickly (@taqueria/plugin-ligo, @taqueria/plugin-taquito, @taqueria/plugin-tezbox)
 2. An example contract called `IncDec.jsligo` in the **contracts/** directory
 3. A working Taqueria project configuration
 
